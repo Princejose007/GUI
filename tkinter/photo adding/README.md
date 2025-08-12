@@ -1,3 +1,5 @@
 ## 📸 App Screenshot
 
-![My App Screenshot](tkinter/photo adding/Screenshot 2025-08-12 230933.png)
+<p align="center">
+  <img src="tkinter/photo_adding/screenshot.png" width="600"/>
+</p>
