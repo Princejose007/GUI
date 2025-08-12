@@ -1,3 +1,3 @@
 ## 📸 App Screenshot
 
-![My App Screenshot](assets/screenshot.png)
+![My App Screenshot](tkinter/photo adding/Screenshot 2025-08-12 230933.png)
