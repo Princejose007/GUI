@@ -1,3 +1,3 @@
 ## 📸 App Screenshot
 
-![My App Screenshot](tkinter/photo_adding/itachi-manga-pages-wallpaper-v0-hu5ulwzxhl2f1.png)
+![My App Screenshot](tkinter/photo_adding/Screenshot 2025-08-12 230933.png)
